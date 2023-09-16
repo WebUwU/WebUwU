@@ -10,7 +10,7 @@ github.com/WebUwU
 
        OS  :  Windows 10
       GPU  :  RTX 3070  
-      CPU  :  Ryzen 5 3600
+      CPU  :  i7 11800H
     Alias  :  Schinken
 Languages  :  Python
   Discord  :  best_schinken
